@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Socially</string>
+    <string name="add_post">Add Post</string>
+    <string name="what_do_you_want_to_talk_about">What do you want to talk about?</string>
+    <string name="post">POST</string>
+    <string name="image">Image</string>
+    <string name="logout">logOut</string>
+</resources>
